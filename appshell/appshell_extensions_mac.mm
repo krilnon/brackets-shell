@@ -35,7 +35,7 @@ NSMutableArray* pendingOpenFiles;
 @end
 
 // App ID for either Chrome or Chrome Canary (commented out)
-NSString *const appId = @"com.google.Chrome";
+NSString *const appId = @"org.chromium.Chromium";
 //NSString *const appId = @"com.google.Chrome.canary";
 
 ///////////////////////////////////////////////////////////////////////////////

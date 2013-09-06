@@ -48,7 +48,7 @@ int32 OpenLiveBrowser(ExtensionString argURL, bool enableRemoteDebugging)
     //   - google-chorme 
     //   - chromium-browser - chromium executable name (in ubuntu)
     //   - chromium - other chromium executable name (in arch linux)
-    std::string browsers[3] = {"google-chrome", "chromium-browser", "chromium"},
+    std::string browsers[3] = {"Chromium", "chromium", "chromium-browser", "google-chrome"},
                 arg1("--allow-file-access-from-files"),
                 arg2(" ");
 
